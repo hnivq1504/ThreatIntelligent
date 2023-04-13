@@ -1,0 +1,302 @@
+[
+      {
+            "Title": "New Python-Based \"Legion\" Hacking Tool Emerges on Telegram",
+            "Published": "Thu, 13 Apr 2023 16:40:00 +0530",
+            "Description": "An emerging Python-based credential harvester and a hacking tool named Legion is being marketed via Telegram as a way for threat actors to break into various online services for further exploitation.\nLegion, according to\u00a0Cado Labs, includes modules to enumerate vulnerable SMTP servers, conduct remote code execution (RCE) attacks, exploit unpatched versions of Apache, and brute-force cPanel and",
+            "Link": "https://thehackernews.com/2023/04/new-python-based-legion-hacking-tool.html"
+      },
+      {
+            "Title": "Why Shadow APIs are More Dangerous than You Think",
+            "Published": "Thu, 13 Apr 2023 15:49:00 +0530",
+            "Description": "Shadow APIs are a growing risk for organizations of all sizes as they can mask malicious behavior and induce substantial data loss. For those that aren't familiar with the term, shadow APIs are a type of application programming interface (API) that isn't officially documented or supported.\u00a0\nContrary to popular belief, it's unfortunately all too common to have APIs in production that no one on",
+            "Link": "https://thehackernews.com/2023/04/why-shadow-apis-are-more-dangerous-than.html"
+      },
+      {
+            "Title": "Pakistan-based Transparent Tribe Hackers Targeting Indian Educational Institutions",
+            "Published": "Thu, 13 Apr 2023 15:49:00 +0530",
+            "Description": "The\u00a0Transparent Tribe\u00a0threat actor has been linked to a set of weaponized Microsoft Office documents in attacks targeting the Indian education sector using a continuously maintained piece of malware called Crimson RAT.\nWhile the suspected Pakistan-based threat group is known to target\u00a0military and government entities\u00a0in the country, the activities have since expanded to include the\u00a0education",
+            "Link": "https://thehackernews.com/2023/04/pakistan-based-transparent-tribe.html"
+      },
+      {
+            "Title": "Lazarus Hacker Group Evolves Tactics, Tools, and Targets in DeathNote Campaign",
+            "Published": "Thu, 13 Apr 2023 14:37:00 +0530",
+            "Description": "The North Korean threat actor known as the Lazarus Group has been observed shifting its focus and rapidly evolving its tools and tactics as part of a long-running activity called\u00a0DeathNote.\nWhile the nation-state adversary is known for its persistent attacks on the cryptocurrency sector, it has also targeted automotive, academic, and defense sectors in Eastern Europe and other parts of the world",
+            "Link": "https://thehackernews.com/2023/04/lazarus-hacker-group-evolves-tactics.html"
+      },
+      {
+            "Title": "ChatGPT Security: OpenAI's Bug Bounty Program Offers Up to $20,000 Prizes",
+            "Published": "Thu, 13 Apr 2023 10:05:00 +0530",
+            "Description": "OpenAI, the company behind the massively popular ChatGPT AI chatbot, has launched a\u00a0bug bounty program\u00a0in an attempt to ensure its systems are \"safe and secure.\"\nTo that end, it has partnered with the crowdsourced security platform\u00a0Bugcrowd\u00a0for independent researchers to report vulnerabilities discovered in its product in exchange for rewards ranging from \"$200 for low-severity findings to up to",
+            "Link": "https://thehackernews.com/2023/04/chatgpt-security-openais-bug-bounty.html"
+      },
+      {
+            "Title": "Israel-based Spyware Firm QuaDream Targets High-Risk iPhones with Zero-Click Exploit",
+            "Published": "Wed, 12 Apr 2023 17:28:00 +0530",
+            "Description": "Threat actors using hacking tools from an Israeli surveillanceware vendor named QuaDream targeted at least five members of civil society in North America, Central Asia, Southeast Asia, Europe, and the Middle East.\nAccording to findings from a group of researchers from the Citizen Lab, the spyware campaign was directed against journalists, political opposition figures, and an NGO worker in 2021.",
+            "Link": "https://thehackernews.com/2023/04/israel-based-spyware-firm-quadream.html"
+      },
+      {
+            "Title": "The Service Accounts Challenge: Can't See or Secure Them Until It's Too Late",
+            "Published": "Wed, 12 Apr 2023 17:20:00 +0530",
+            "Description": "Here's a hard question to answer: 'How many service accounts do you have in your environment?'. A harder one is: 'Do you know what these accounts are doing?'. And the hardest is probably: 'If any of your service account was compromised and used to access resources would you be able to detect and stop that in real-time?'.\u00a0\nSince most identity and security teams would provide a negative reply,",
+            "Link": "https://thehackernews.com/2023/04/the-service-accounts-challenge-cant-see.html"
+      },
+      {
+            "Title": "Urgent: Microsoft Issues Patches for 97 Flaws, Including Active Ransomware Exploit",
+            "Published": "Wed, 12 Apr 2023 12:08:00 +0530",
+            "Description": "It's the second Tuesday of the month, and Microsoft has released another set of security updates to fix\u00a0a total of 97 flaws\u00a0impacting its software, one of which has been actively exploited in ransomware attacks in the wild.\nSeven of the 97 bugs are rated Critical and 90 are rated Important in severity. Interestingly, 45 of the shortcomings are remote code execution flaws, followed by 20",
+            "Link": "https://thehackernews.com/2023/04/urgent-microsoft-issues-patches-for-97.html"
+      },
+      {
+            "Title": "North Korean Hackers Uncovered as Mastermind in 3CX Supply Chain Attack",
+            "Published": "Wed, 12 Apr 2023 09:36:00 +0530",
+            "Description": "Enterprise communications service provider 3CX confirmed that the\u00a0supply chain attack\u00a0targeting its desktop application for Windows and macOS was the handiwork of a threat actor with North Korean nexus.\nThe findings are the result of an interim assessment conducted by Google-owned Mandiant, whose services were enlisted after the intrusion came to light late last month. The threat intelligence",
+            "Link": "https://thehackernews.com/2023/04/lazarus-sub-group-labyrinth-chollima.html"
+      },
+      {
+            "Title": "Newly Discovered \"By-Design\" Flaw in Microsoft Azure Could Expose Storage Accounts to Hackers",
+            "Published": "Tue, 11 Apr 2023 18:30:00 +0530",
+            "Description": "A \"by-design flaw\" uncovered in Microsoft Azure could be exploited by attackers to gain access to storage accounts, move laterally in the environment, and even execute remote code.\n\"It is possible to abuse and leverage Microsoft Storage Accounts by manipulating Azure Functions to steal access-tokens of higher privilege identities, move laterally, potentially access critical business assets, and",
+            "Link": "https://thehackernews.com/2023/04/newly-discovered-by-design-flaw-in.html"
+      },
+      {
+            "Title": "Cybercriminals Turn to Android Loaders on Dark Web to Evade Google Play Security",
+            "Published": "Tue, 11 Apr 2023 17:59:00 +0530",
+            "Description": "Malicious loader programs capable of trojanizing Android applications are being traded on the criminal underground for up to $20,000 as a way to evade Google Play Store defenses.\n\"The most popular application categories to hide malware and unwanted software include cryptocurrency trackers, financial apps, QR-code scanners, and even dating apps,\" Kaspersky\u00a0said\u00a0in a new report based on messages",
+            "Link": "https://thehackernews.com/2023/04/cybercriminals-turn-to-android-loaders.html"
+      },
+      {
+            "Title": "[eBook] A Step-by-Step Guide to Cyber Risk Assessment",
+            "Published": "Tue, 11 Apr 2023 17:12:00 +0530",
+            "Description": "In today's perilous cyber risk landscape, CISOs and CIOs must defend their organizations against relentless cyber threats, including ransomware, phishing, attacks on infrastructure, supply chain breaches, malicious insiders, and much more. Yet at the same time, security leaders are also under tremendous pressure to reduce costs and invest wisely.\u00a0\nOne of the most effective ways for CISOs and",
+            "Link": "https://thehackernews.com/2023/04/ebook-step-by-step-guide-to-cyber-risk.html"
+      },
+      {
+            "Title": "Cryptocurrency Stealer Malware Distributed via 13 NuGet Packages",
+            "Published": "Tue, 11 Apr 2023 14:46:00 +0530",
+            "Description": "Cybersecurity researchers have detailed the inner workings of the cryptocurrency stealer malware that was distributed via 13 malicious NuGet packages as part of a supply chain attack targeting .NET developers.\nThe sophisticated typosquatting campaign, which was uncovered by JFrog late last\u00a0month, impersonated legitimate packages to execute PowerShell code designed to retrieve a follow-on binary",
+            "Link": "https://thehackernews.com/2023/04/cryptocurrency-stealer-malware.html"
+      },
+      {
+            "Title": "Estonian National Charged in U.S. for Acquiring Electronics and Metasploit Pro for Russian Military",
+            "Published": "Mon, 10 Apr 2023 18:31:00 +0530",
+            "Description": "An Estonian national has been\u00a0charged\u00a0in the U.S. for purchasing U.S.-made electronics on behalf of the Russian government and military.\nThe 45-year-old individual, Andrey Shevlyakov, was arrested on March 28, 2023, in Tallinn. He has been indicted with 18 counts of conspiracy and other charges. If found guilty, he faces up to 20 years in prison.\nCourt documents allege that Shevlyakov operated",
+            "Link": "https://thehackernews.com/2023/04/estonian-national-charged-in-us-for.html"
+      },
+      {
+            "Title": "Hackers Flood NPM with Bogus Packages Causing a DoS Attack",
+            "Published": "Mon, 10 Apr 2023 18:15:00 +0530",
+            "Description": "Threat actors flooded the npm open source package repository for Node.js with bogus packages that briefly even resulted in a denial-of-service (DoS) attack.\n\"The threat actors create malicious websites and publish empty packages with links to those malicious websites, taking advantage of open-source ecosystems' good reputation on search engines,\" Checkmarx's Jossef Harush Kadouri\u00a0said\u00a0in a",
+            "Link": "https://thehackernews.com/2023/04/hackers-flood-npm-with-bogus-packages.html"
+      },
+      {
+            "Title": "Top 10 Cybersecurity Trends for 2023: From Zero Trust to Cyber Insurance",
+            "Published": "Mon, 10 Apr 2023 17:08:00 +0530",
+            "Description": "As technology advances, cyberattacks are becoming more sophisticated. With the increasing use of technology in our daily lives, cybercrime is on the rise, as evidenced by the fact that cyberattacks caused\u00a092% of all data breaches\u00a0in the first quarter of 2022. Staying current with cybersecurity trends and laws is crucial to combat these threats, which can significantly impact business development",
+            "Link": "https://thehackernews.com/2023/04/top-10-cybersecurity-trends-for-2023.html"
+      },
+      {
+            "Title": "Over 1 Million WordPress Sites Infected by Balada Injector Malware Campaign",
+            "Published": "Mon, 10 Apr 2023 15:46:00 +0530",
+            "Description": "Over one million WordPress websites are estimated to have been infected by an ongoing campaign to deploy malware called\u00a0Balada Injector\u00a0since 2017.\nThe massive campaign, per GoDaddy's Sucuri, \"leverages all known and recently discovered theme and plugin vulnerabilities\" to breach WordPress sites. The attacks are known to play out in waves once every few weeks.\n\"This campaign is easily identified",
+            "Link": "https://thehackernews.com/2023/04/over-1-million-wordpress-sites-infected.html"
+      },
+      {
+            "Title": "Protecting your business with Wazuh: The open source security platform",
+            "Published": "Mon, 10 Apr 2023 14:57:00 +0530",
+            "Description": "Today, businesses face a variety of security challenges like cyber attacks, compliance requirements, and endpoint security administration. The threat landscape constantly evolves, and it can be overwhelming for businesses to keep up with the latest security trends. Security teams use processes and security solutions to curb these challenges. These solutions include firewalls, antiviruses, data",
+            "Link": "https://thehackernews.com/2023/04/protecting-your-business-with-wazuh.html"
+      },
+      {
+            "Title": "CISA Warns of 5 Actively Exploited Security Flaws: Urgent Action Required",
+            "Published": "Mon, 10 Apr 2023 11:55:00 +0530",
+            "Description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added\u00a0five security flaws\u00a0to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThis includes three high-severity flaws in the Veritas Backup Exec Agent software (CVE-2021-27876, CVE-2021-27877, and CVE-2021-27878) that could lead to the execution of privileged commands",
+            "Link": "https://thehackernews.com/2023/04/cisa-warns-of-5-actively-exploited.html"
+      },
+      {
+            "Title": "Taiwanese PC Company MSI Falls Victim to Ransomware Attack",
+            "Published": "Sat, 08 Apr 2023 20:07:00 +0530",
+            "Description": "Taiwanese PC company MSI (short for Micro-Star International) officially confirmed it was the victim of a cyber attack on its systems.\nThe company said it \"promptly\" initiated incident response and recovery measures after detecting \"network anomalies.\" It also said it alerted law enforcement agencies of the matter.\nThat said, MSI did not disclose any specifics about when the attack took place",
+            "Link": "https://thehackernews.com/2023/04/taiwanese-pc-company-msi-falls-victim.html"
+      },
+      {
+            "Title": "Iran-Based Hackers Caught Carrying Out Destructive Attacks Under Ransomware Guise",
+            "Published": "Sat, 08 Apr 2023 12:49:00 +0530",
+            "Description": "The Iranian nation-state group known as\u00a0MuddyWater\u00a0has been observed carrying out destructive attacks on hybrid environments under the guise of a ransomware operation.\nThat's according to new findings from the Microsoft Threat Intelligence team, which discovered the threat actor targeting both on-premises and cloud infrastructures in partnership with another emerging activity cluster dubbed",
+            "Link": "https://thehackernews.com/2023/04/iran-based-hackers-caught-carrying-out.html"
+      },
+      {
+            "Title": "Apple Releases Updates to Address Zero-Day Flaws in iOS, iPadOS, macOS, and Safari",
+            "Published": "Sat, 08 Apr 2023 10:45:00 +0530",
+            "Description": "Apple on Friday released security updates for\u00a0iOS, iPadOS,\u00a0macOS, and\u00a0Safari web browser\u00a0to address a pair of zero-day flaws that are being exploited in the wild.\nThe two vulnerabilities are as follows -\n\nCVE-2023-28205\u00a0- A\u00a0use after free issue\u00a0in WebKit that could lead to arbitrary code execution when processing specially crafted web content.\n\n\nCVE-2023-28206\u00a0- An\u00a0out-of-bounds write issue\u00a0in",
+            "Link": "https://thehackernews.com/2023/04/apple-releases-updates-to-address-zero.html"
+      },
+      {
+            "Title": "Expert-Led Webinar: Learn Proven Strategies to Secure Your Identity Perimeter",
+            "Published": "Sat, 08 Apr 2023 10:35:00 +0530",
+            "Description": "The stakes are high when it comes to cybersecurity. No longer are we dealing with unskilled hackers trying to break into corporate systems with brute force. Today, cybercriminals are using highly sophisticated methods like social engineering, spear phishing, and BEC to target users directly and log in with valid credentials.\nThis is why the identity perimeter has become a critical battleground",
+            "Link": "https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html"
+      },
+      {
+            "Title": "Researchers Discover Critical Remote Code Execution Flaw in vm2 Sandbox Library",
+            "Published": "Sat, 08 Apr 2023 10:34:00 +0530",
+            "Description": "The maintainers of the vm2 JavaScript sandbox module have shipped a patch to address a critical flaw that could be abused to break out of security boundaries and execute arbitrary shellcode.\nThe flaw, which affects all versions, including and prior to 3.9.14, was\u00a0reported\u00a0by researchers from South Korea-based\u00a0KAIST WSP Lab\u00a0on April 6, 2023, prompting vm2 to release a fix with\u00a0version 3.9.15\u00a0on",
+            "Link": "https://thehackernews.com/2023/04/researchers-discover-critical-remote.html"
+      },
+      {
+            "Title": "Researchers Uncover Thriving Phishing Kit Market on Telegram Channels",
+            "Published": "Fri, 07 Apr 2023 18:02:00 +0530",
+            "Description": "In yet another sign that Telegram is increasingly becoming a\u00a0thriving hub\u00a0for cybercrime, researchers have found that threat actors are using the messaging platform to peddle phishing kits and help set up phishing campaigns.\n\"To promote their 'goods,' phishers create Telegram channels through which they educate their audience about phishing and entertain subscribers with polls like, 'What type",
+            "Link": "https://thehackernews.com/2023/04/researchers-uncover-thriving-phishing.html"
+      },
+      {
+            "Title": "Microsoft Takes Legal Action to Disrupt Cybercriminals' Illegal Use of Cobalt Strike Tool",
+            "Published": "Fri, 07 Apr 2023 11:45:00 +0530",
+            "Description": "Microsoft said it teamed up with Fortra and Health Information Sharing and Analysis Center (Health-ISAC) to tackle the abuse of Cobalt Strike by cybercriminals to distribute malware, including ransomware.\nTo that end, the tech giant's Digital Crimes Unit (DCU) revealed that it secured a\u00a0court order\u00a0in the U.S. to \"remove illegal, legacy copies of Cobalt Strike so they can no longer be used by",
+            "Link": "https://thehackernews.com/2023/04/microsoft-takes-legal-action-to-disrupt.html"
+      },
+      {
+            "Title": "Are Source Code Leaks the New Threat Software vendors Should Care About?",
+            "Published": "Fri, 07 Apr 2023 11:44:00 +0530",
+            "Description": "Less than a month ago, Twitter indirectly acknowledged that some of its source code had been leaked on the code-sharing platform GitHub by sending a copyright infringement notice to take down the incriminated repository. The latter is now inaccessible, but according to the media, it was accessible to the public for several months. A user going by the name FreeSpeechEnthousiast committed",
+            "Link": "https://thehackernews.com/2023/04/are-source-code-leaks-new-threat.html"
+      },
+      {
+            "Title": "CISA Warns of Critical ICS Flaws in Hitachi, mySCADA, ICL, and Nexx Products",
+            "Published": "Fri, 07 Apr 2023 11:29:00 +0530",
+            "Description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has\u00a0published\u00a0eight\u00a0Industrial Control Systems (ICS) advisories warning of critical flaws affecting products from Hitachi Energy, mySCADA Technologies, Industrial Control Links, and Nexx.\nTopping the list is\u00a0CVE-2022-3682\u00a0(CVSS score: 9.9), impacting Hitachi Energy's MicroSCADA System Data Manager SDM600 that could allow an",
+            "Link": "https://thehackernews.com/2023/04/cisa-warns-of-critical-ics-flaws-in.html"
+      },
+      {
+            "Title": "Supply Chain Attacks and Critical Infrastructure: How CISA Helps Secure a Nation's Crown Jewels",
+            "Published": "Thu, 06 Apr 2023 17:16:00 +0530",
+            "Description": "Critical infrastructure attacks are a preferred target for cyber criminals. Here's why and what's being done to protect them.\nWhat is Critical Infrastructure and Why is It Attacked?\nCritical infrastructure is the physical and digital assets, systems and networks that are vital to national security, the economy, public health, or safety. It can be government- or privately-owned.\nAccording to Etay",
+            "Link": "https://thehackernews.com/2023/04/supply-chain-attacks-and-critical.html"
+      },
+      {
+            "Title": "FBI Cracks Down on Genesis Market: 119 Arrested in Cybercrime Operation",
+            "Published": "Thu, 06 Apr 2023 14:31:00 +0530",
+            "Description": "A joint international law enforcement operation has dismantled Genesis Market, an illegal online marketplace that specialized in the sale of stolen credentials associated with email, bank accounts, and social media platforms.\nCoinciding with the infrastructure seizure, the major crackdown, which involved authorities from 17 countries, culminated in 119 arrests and 208 property searches in 13",
+            "Link": "https://thehackernews.com/2023/04/fbi-cracks-down-on-genesis-market-119.html"
+      },
+      {
+            "Title": "Google Mandates Android Apps to Offer Easy Account Deletion In-App and Online",
+            "Published": "Thu, 06 Apr 2023 09:10:00 +0530",
+            "Description": "Google is enacting a new data deletion policy for Android apps that allow account creation to also offer users with a setting to delete their accounts in an attempt to provide more transparency and control over their data.\n\"For apps that enable app account creation, developers will soon need to provide an option to initiate account and data deletion from within the app and online,\" Bethel",
+            "Link": "https://thehackernews.com/2023/04/google-mandates-android-apps-to-offer.html"
+      },
+      {
+            "Title": "CryptoClippy: New Clipper Malware Targeting Portuguese Cryptocurrency Users",
+            "Published": "Wed, 05 Apr 2023 19:47:00 +0530",
+            "Description": "Portuguese users are being targeted by a new malware codenamed\u00a0CryptoClippy\u00a0that's capable of stealing cryptocurrency as part of a malvertising campaign.\nThe activity leverages SEO poisoning techniques to entice users searching for \"WhatsApp web\" to rogue domains hosting the malware, Palo Alto Networks Unit 42\u00a0said\u00a0in a new report published today.\u00a0\nCryptoClippy, a C-based executable, is a type",
+            "Link": "https://thehackernews.com/2023/04/cryptoclippy-new-clipper-malware.html"
+      },
+      {
+            "Title": "Hackers Using Self-Extracting Archives Exploit for Stealthy Backdoor Attacks",
+            "Published": "Wed, 05 Apr 2023 18:06:00 +0530",
+            "Description": "An unknown threat actor used a malicious self-extracting archive (SFX) file in an attempt to establish persistent backdoor access to a victim's environment, new findings from CrowdStrike show.\nSFX files are capable of extracting the data contained within them without the need for dedicated software to display the file contents. It achieves this by including a decompressor stub, a piece of code",
+            "Link": "https://thehackernews.com/2023/04/hackers-using-self-extracting-archives.html"
+      },
+      {
+            "Title": "Google TAG Warns of North Korean-linked ARCHIPELAGO Cyberattacks",
+            "Published": "Wed, 05 Apr 2023 17:49:00 +0530",
+            "Description": "A North Korean government-backed threat actor has been linked to attacks targeting government and military personnel, think tanks, policy makers, academics, and researchers in South Korea and the U.S.\nGoogle's Threat Analysis Group (TAG) is\u00a0tracking\u00a0the cluster under the name\u00a0ARCHIPELAGO, which it said is a subset of another threat group tracked by Mandiant under the name\u00a0APT43.\nThe tech giant",
+            "Link": "https://thehackernews.com/2023/04/google-tag-warns-of-north-korean-linked.html"
+      },
+      {
+            "Title": "Protect Your Company: Ransomware Prevention Made Easy",
+            "Published": "Wed, 05 Apr 2023 17:19:00 +0530",
+            "Description": "Every year hundreds of millions of malware attacks occur worldwide, and every year businesses deal with the impact of viruses, worms, keyloggers, and ransomware. Malware is a pernicious threat and the biggest driver for businesses to look for cybersecurity solutions.\u00a0\nNaturally, businesses want to find products that will stop malware in its tracks, and so they search for solutions to do that.",
+            "Link": "https://thehackernews.com/2023/04/protect-your-company-ransomware.html"
+      },
+      {
+            "Title": "Typhon Reborn Stealer Malware Resurfaces with Advanced Evasion Techniques",
+            "Published": "Wed, 05 Apr 2023 14:05:00 +0530",
+            "Description": "The threat actor behind the information-stealing malware known as\u00a0Typhon Reborn\u00a0has resurfaced with an updated version (V2) that packs in improved capabilities to evade detection and resist analysis.\nThe new version is offered for sale on the criminal underground for $59 per month, $360 per year, or alternatively, for $540 for a lifetime subscription.\n\"The stealer can harvest and exfiltrate",
+            "Link": "https://thehackernews.com/2023/04/typhon-reborn-stealer-malware.html"
+      },
+      {
+            "Title": "Sorting Through Haystacks to Find CTI Needles",
+            "Published": "Tue, 04 Apr 2023 19:21:00 +0530",
+            "Description": "Clouded vision\nCTI systems are confronted with some major issues ranging from the size of the collection networks to their diversity, which ultimately influence the degree of confidence they can put on their signals. Are they fresh enough and sufficiently reliable to avoid any false positives or any poisoning? Do I risk acting on outdated data? This difference is major since a piece of",
+            "Link": "https://thehackernews.com/2023/04/sorting-through-haystacks-to-find-cti.html"
+      },
+      {
+            "Title": "Rorschach Ransomware Emerges: Experts Warn of Advanced Evasion Strategies",
+            "Published": "Tue, 04 Apr 2023 18:46:00 +0530",
+            "Description": "Cybersecurity researchers have taken the wraps off a previously undocumented ransomware strain called\u00a0Rorschach\u00a0that's both sophisticated and fast.\n\"What makes Rorschach stand out from other ransomware strains is its high level of customization and its technically unique features that have not been seen before in ransomware,\" Check Point Research\u00a0said\u00a0in a new report. \"In fact, Rorschach is one",
+            "Link": "https://thehackernews.com/2023/04/rorschach-ransomware-emerges-experts.html"
+      },
+      {
+            "Title": "New Rilide Malware Targeting Chromium-Based Browsers to Steal Cryptocurrency",
+            "Published": "Tue, 04 Apr 2023 18:37:00 +0530",
+            "Description": "Chromium-based web browsers are the target of a new malware called Rilide that masquerades itself as a seemingly legitimate extension to harvest sensitive data and siphon cryptocurrency.\n\"Rilide malware is disguised as a legitimate Google Drive extension and enables threat actors to carry out a broad spectrum of malicious activities, including monitoring browsing history, taking screenshots, and",
+            "Link": "https://thehackernews.com/2023/04/new-rilide-malware-targeting-chromium.html"
+      },
+      {
+            "Title": "Arid Viper Hacking Group Using Upgraded Malware in Middle East Cyber Attacks",
+            "Published": "Tue, 04 Apr 2023 15:38:00 +0530",
+            "Description": "The threat actor known as\u00a0Arid Viper\u00a0has been observed using refreshed variants of its malware toolkit in its attacks targeting Palestinian entities since September 2022.\nSymantec, which is tracking the group under its insect-themed moniker Mantis,\u00a0said\u00a0the adversary is \"going to great lengths to maintain a persistent presence on targeted networks.\"\nAlso known by the names\u00a0APT-C-23 and Desert",
+            "Link": "https://thehackernews.com/2023/04/arid-viper-hacking-group-using-upgraded.html"
+      },
+      {
+            "Title": "Think Before You Share the Link: SaaS in the Real World",
+            "Published": "Tue, 04 Apr 2023 15:24:00 +0530",
+            "Description": "Collaboration sits at the essence of SaaS applications. The word, or some form of it, appears in the top two headlines on Google Workspace\u2019s homepage. It can be found six times on Microsoft 365\u2019s homepage, three times on Box, and once on Workday. Visit nearly any SaaS site, and odds are \u2018collaboration\u2019 will appear as part of the app\u2019s key selling point.\u00a0\nBy sitting on the cloud, content within",
+            "Link": "https://thehackernews.com/2023/04/think-before-you-share-link-saas-in.html"
+      },
+      {
+            "Title": "Microsoft Tightens OneNote Security by Auto-Blocking 120 Risky File Extensions",
+            "Published": "Tue, 04 Apr 2023 10:00:00 +0530",
+            "Description": "Microsoft has announced plans to automatically block embedded files with \"dangerous extensions\" in OneNote following reports that the note-taking service is being\u00a0increasingly abused\u00a0for malware delivery.\nUp until now, users were shown a dialog warning them that opening such attachments could harm their computer and data, but it was possible to dismiss the prompt and open the files.\nThat's going",
+            "Link": "https://thehackernews.com/2023/04/microsoft-tightens-onenote-security-by.html"
+      },
+      {
+            "Title": "Cryptocurrency Companies Targeted in Sophisticated 3CX Supply Chain Attack",
+            "Published": "Tue, 04 Apr 2023 09:24:00 +0530",
+            "Description": "The adversary behind the\u00a0supply chain attack targeting 3CX\u00a0deployed a second-stage implant specifically singling out a small number of cryptocurrency companies.\nRussian cybersecurity firm Kaspersky, which has been\u00a0internally tracking\u00a0the versatile backdoor under the name\u00a0Gopuram\u00a0since 2020, said it observed an increase in the number of infections in March 2023 coinciding with the 3CX breach.",
+            "Link": "https://thehackernews.com/2023/04/cryptocurrency-companies-targeted-in.html"
+      },
+      {
+            "Title": "Western Digital Hit by Network Security Breach - Critical Services Disrupted!",
+            "Published": "Mon, 03 Apr 2023 17:11:00 +0530",
+            "Description": "Data storage devices maker Western Digital on Monday disclosed a \"network security incident\" that involved unauthorized access to its systems.\nThe\u00a0breach\u00a0is said to have occurred on March 26, 2023, enabling an unnamed third party to gain access to a \"number of the company's systems.\"\nFollowing the discovery of the hack, Western Digital said it has initiated incident response efforts and enlisted",
+            "Link": "https://thehackernews.com/2023/04/western-digital-hit-by-network-security.html"
+      },
+      {
+            "Title": "Italian Watchdog Bans OpenAI's ChatGPT Over Data Protection Concerns",
+            "Published": "Mon, 03 Apr 2023 16:55:00 +0530",
+            "Description": "The Italian data protection watchdog, Garante per la Protezione dei Dati Personali (aka Garante), has imposed a temporary ban of OpenAI's ChatGPT service in the country, citing data protection concerns.\nTo that end, it has ordered the company to stop processing users' data with immediate effect, stating it intends to investigate the company over whether it's unlawfully processing such data in",
+            "Link": "https://thehackernews.com/2023/04/italian-watchdog-bans-openais-chatgpt.html"
+      },
+      {
+            "Title": "\"It's The Service Accounts, Stupid\": Why Do PAM Deployments Take (almost) Forever To Complete?",
+            "Published": "Mon, 03 Apr 2023 16:50:00 +0530",
+            "Description": "Privileged Access Management (PAM) solutions are regarded as the common practice to prevent identity threats to administrative accounts. In theory, the PAM concept makes absolute sense: place admin credentials in a vault, rotate their passwords, and closely monitor their sessions. However, the harsh reality is that the vast majority of PAM projects either become a years-long project, or even",
+            "Link": "https://thehackernews.com/2023/04/its-service-accounts-stupid-why-do-pam.html"
+      },
+      {
+            "Title": "Crypto-Stealing OpcJacker Malware Targets Users with Fake VPN Service",
+            "Published": "Mon, 03 Apr 2023 14:50:00 +0530",
+            "Description": "A piece of new information-stealing malware called\u00a0OpcJacker\u00a0has been spotted in the wild since the second half of 2022 as part of a malvertising campaign. \n\"OpcJacker's main functions include keylogging, taking screenshots, stealing sensitive data from browsers, loading additional modules, and replacing cryptocurrency addresses in the clipboard for hijacking purposes,\" Trend Micro researchers",
+            "Link": "https://thehackernews.com/2023/04/crypto-stealing-opcjacker-malware.html"
+      },
+      {
+            "Title": "Microsoft Fixes New Azure AD Vulnerability Impacting Bing Search and Major Apps",
+            "Published": "Sat, 01 Apr 2023 14:03:00 +0530",
+            "Description": "Microsoft has patched a misconfiguration issue impacting the Azure Active Directory (AAD) identity and access management service that exposed several \"high-impact\" applications to unauthorized access.\n\"One of these apps is a content management system (CMS) that powers Bing.com and allowed us to not only modify search results, but also launch high-impact XSS attacks on Bing users,\" cloud security",
+            "Link": "https://thehackernews.com/2023/04/microsoft-fixes-new-azure-ad.html"
+      },
+      {
+            "Title": "Cacti, Realtek, and IBM Aspera Faspex Vulnerabilities Under Active Exploitation",
+            "Published": "Sat, 01 Apr 2023 10:21:00 +0530",
+            "Description": "Critical security flaws in Cacti, Realtek, and IBM Aspera Faspex are being exploited by various threat actors in hacks targeting unpatched systems.\nThis entails the abuse of\u00a0CVE-2022-46169\u00a0(CVSS score: 9.8) and\u00a0CVE-2021-35394\u00a0(CVSS score: 9.8) to deliver\u00a0MooBot\u00a0and\u00a0ShellBot\u00a0(aka PerlBot), Fortinet FortiGuard Labs\u00a0said\u00a0in a report published this week.\nCVE-2022-46169\u00a0relates to a critical",
+            "Link": "https://thehackernews.com/2023/04/cacti-realtek-and-ibm-aspera-faspex.html"
+      },
+      {
+            "Title": "Hackers Exploiting WordPress Elementor Pro Vulnerability: Millions of Sites at Risk!",
+            "Published": "Sat, 01 Apr 2023 10:06:00 +0530",
+            "Description": "Unknown threat actors are actively exploiting a recently patched security vulnerability in the Elementor Pro website builder plugin for WordPress.\nThe flaw, described as a case of broken access control, impacts versions 3.11.6 and earlier. It was addressed by the plugin maintainers in version 3.11.7 released on March 22.\n\"Improved code security enforcement in WooCommerce components,\" the Tel",
+            "Link": "https://thehackernews.com/2023/04/hackers-exploiting-wordpress-elementor.html"
+      }
+]
