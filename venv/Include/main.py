@@ -1,96 +1,28 @@
-# from crawler import Crawler
-# from data import Data
-# from database import DataBase
-# import elasticsearch
-# import json
-
-# def JsonFormat(articles):
-#     jsonformat=[]
-#     for article in articles:
-#         jsonformat.append(article.__json__())
-#     return jsonformat
-
-# def OutPut(file_name,crawl_datas):
-#     exist_data = Load_Exist(file_name)
-#     for crawl_data in crawl_datas:
-#         if crawl_data not in exist_data:
-#             with open(file_name, "a") as outfile:
-#                 json.dump(crawl_data,outfile,indent=6)
-
-
-# def Load_Exist(file_name):
-#     try:
-#         with open(file_name, "r") as infile:
-#             exist_data = json.load(infile)
-#     except FileNotFoundError:
-#         exist_data = []
-#     return exist_data
-
-# if __name__ == '__main__':
-#     url = "https://feeds.feedburner.com/TheHackersNews"
-#     bot_token = "6216004222:AAHo7A_DoK5e6sCdfBHp2VpwOn_H-Hg9Og8"
-#     chat_id = "-901299271"
-#     es_host = "http://192.168.6.151:9200/"
-#     index_name = "hackernews"
-#     HackerNewCrawl = Crawler(url)
-#     feed = HackerNewCrawl.RSS()
-#     articles = Data.parser(feed)
-#     db = DataBase(es_host,index_name)
-#     crawl_datas = JsonFormat(articles=articles)
-#     OutPut("hackernews.json",crawl_datas)
-#     # es = elasticsearch.Elasticsearch(hosts=[es_host])
-#     # if not es.indices.exists(index="hackernews"):
-#     #     es.indices.create(index="hackernews")
-#     # for crawl_data in crawl_datas:
-#     #     es.index(index="hackernews", document=crawl_data)
-#     # print(DataBase.Load_Exist("hackernews.json"))
-
 from crawler import Crawler
 from data import Data
 from database import DataBase
+from bot import Bot
+import sys
 import elasticsearch
 import json
 
-def JsonFormat(articles):
-    jsonformat=[]
-    for article in articles:
-        jsonformat.append(article.__json__())
-    return jsonformat
-
-def Load_Exist(file_name):
-    try:
-        with open(file_name, "r") as f:
-            existing_data = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
-        existing_data = []
-    return existing_data
-
-def OutPut(file_name, crawl_datas):
-    exist_data = Load_Exist(file_name)
-    new_data = []
-    for crawl_data in crawl_datas:
-        if crawl_data not in exist_data:
-            new_data.append(crawl_data)
-    with open(file_name, "w") as outfile:
-        json.dump(new_data+exist_data, outfile, indent=6)
-        outfile.write('\n')
-
 if __name__ == '__main__':
-    url = "https://feeds.feedburner.com/TheHackersNews"
-    bot_token = "6216004222:AAHo7A_DoK5e6sCdfBHp2VpwOn_H-Hg9Og8"
-    chat_id = "-901299271"
     es_host = "http://192.168.6.151:9200/"
-    index_name = "hackernews"
-    HackerNewCrawl = Crawler(url)
-    feed = HackerNewCrawl.RSS()
-    articles = Data.parser(feed)
-    db = DataBase(es_host, index_name)
-    crawl_datas = JsonFormat(articles=articles)
-    # exist_data = Load_Exist("hackernews.json")
-    OutPut("hackernews.json", crawl_datas)
-    # es = elasticsearch.Elasticsearch(hosts=[es_host])
-    # if not es.indices.exists(index="hackernews"):
-    #     es.indices.create(index="hackernews")
-    # for crawl_data in new_crawl_data:
-    #     es.index(index="hackernews", document=crawl_data)
-    # print(DataBase.Load_Exist("hackernews.json"))
+    
+    Crawl_HackerNews = Crawler("https://feeds.feedburner.com/TheHackersNews","hackernews")
+    Data_HackerNewsCrawl = Crawl_HackerNews.crawl_and_format()
+    Bot_HackerNews = Bot("6216004222:AAHo7A_DoK5e6sCdfBHp2VpwOn_H-Hg9Og8","-901299271")
+    Crawl_HackerNews.bot = Bot_HackerNews
+    DB_Hackernews = DataBase("http://192.168.6.151:9200/","hackernews")
+    Crawl_HackerNews.output(Data_HackerNewsCrawl)
+    DB_Hackernews.add_to_database()
+
+
+    Crawl_BeepingComputer = Crawler("https://www.bleepingcomputer.com/feed/","beepingcomputer")
+    Data_BeepingComputer = Crawl_BeepingComputer.crawl_and_format()
+    Bot_BeepingComputer = Bot("6031688399:AAHkRbu_UUOFdJSRVJlvxcmmHqATH3q-wYI","-858491908")
+    Crawl_BeepingComputer.bot = Bot_BeepingComputer
+    DB_BeepingComputer = DataBase("http://192.168.6.151:9200/","beepingcomputer")
+    Crawl_BeepingComputer.output(Data_BeepingComputer)
+    DB_BeepingComputer.add_to_database()
+    # db = DataBase(es_host, index_name)

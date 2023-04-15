@@ -1,0 +1,86 @@
+[
+    {
+        "Title": "The Week in Ransomware - April 14th 2023 - A Focus on Stolen Data",
+        "Published": "Fri, 14 Apr 2023 18:35:57 -0400",
+        "Description": "It has been mostly a quiet week regarding ransomware, with only a few bits of info released on older attacks and some reports released on existing organizations. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-14th-2023-a-focus-on-stolen-data/"
+    },
+    {
+        "Title": "Vice Society ransomware uses new PowerShell data theft tool in attacks",
+        "Published": "Fri, 14 Apr 2023 15:46:58 -0400",
+        "Description": "The Vice Society ransomware gang is deploying a new, rather sophisticated PowerShell script to automate data theft from compromised networks. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/security/vice-society-ransomware-uses-new-powershell-data-theft-tool-in-attacks/"
+    },
+    {
+        "Title": "Microsoft expands Start menu ads test with new \u2018treatments\u2019",
+        "Published": "Fri, 14 Apr 2023 15:20:00 -0400",
+        "Description": "Microsoft is testing new ads in the Windows Start menu, or what it describes as \"new treatments,\" for users logged into local accounts as part of a \"badging\" expansion. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expands-start-menu-ads-test-with-new-treatments/"
+    },
+    {
+        "Title": "Google Chrome emergency update fixes first zero-day of 2023",
+        "Published": "Fri, 14 Apr 2023 14:00:32 -0400",
+        "Description": "Google has released an emergency Chrome security update\u00a0to\u00a0address\u00a0the first zero-day vulnerability exploited in attacks since the start of the\u00a0year. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-first-zero-day-of-2023/"
+    },
+    {
+        "Title": "Darktrace: Investigation found no evidence of LockBit breach",
+        "Published": "Fri, 14 Apr 2023 13:29:28 -0400",
+        "Description": "Cybersecurity firm Darktrace says it found no evidence that the LockBit ransomware gang breached its network after the group added an entry to their dark web leak platform, implying that they stole data from the company's systems. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/security/darktrace-investigation-found-no-evidence-of-lockbit-breach/"
+    },
+    {
+        "Title": "Russia accuses NATO of launching 5,000 cyberattacks since 2022",
+        "Published": "Fri, 14 Apr 2023 12:19:05 -0400",
+        "Description": "The Federal Security Service of the Russian Federation (FSB) has accused the United States and other NATO countries of launching over 5,000 cyberattacks against critical infrastructure in the country since the beginning of 2022. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/security/russia-accuses-nato-of-launching-5-000-cyberattacks-since-2022/"
+    },
+    {
+        "Title": "Microsoft: Phishing attack targets accountants as Tax Day approaches",
+        "Published": "Thu, 13 Apr 2023 18:21:11 -0400",
+        "Description": "Microsoft is warning of a phishing campaign targeting accounting firms and tax preparers with remote access malware allowing initial access to corporate networks. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/security/microsoft-phishing-attack-targets-accountants-as-tax-day-approaches/"
+    },
+    {
+        "Title": "Microsoft: Windows LAPS is incompatible with legacy policies",
+        "Published": "Thu, 13 Apr 2023 15:13:50 -0400",
+        "Description": "Microsoft is investigating an interoperability bug between the recently added Windows Local Administrator Password Solution (LAPS) feature and legacy LAPS policies. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-laps-is-incompatible-with-legacy-policies/"
+    },
+    {
+        "Title": "Windows 11 is getting a new 'Presence sensing' privacy setting",
+        "Published": "Thu, 13 Apr 2023 14:19:53 -0400",
+        "Description": "Windows 11 is getting a new privacy setting that allows users to control whether applications can detect when actively interacting with the device. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-is-getting-a-new-presence-sensing-privacy-setting/"
+    },
+    {
+        "Title": "Microsoft shares fix for Outlook issue blocking access to emails",
+        "Published": "Thu, 13 Apr 2023 13:18:31 -0400",
+        "Description": "Microsoft is working on fixing an issue affecting some Outlook for Microsoft 365 customers and preventing them from accessing emails and their calendars. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-outlook-issue-blocking-access-to-emails/"
+    },
+    {
+        "Title": "Dutch Police mails RaidForums members to warn they\u2019re being watched",
+        "Published": "Thu, 13 Apr 2023 12:42:40 -0400",
+        "Description": "Dutch Police is sending emails to former RaidForums members, asking them to delete stolen data and stop illegal cyber activities and warning that they are not anonymous. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/security/dutch-police-mails-raidforums-members-to-warn-theyre-being-watched/"
+    },
+    {
+        "Title": "Police disrupts $98M online fraud ring with 33,000 victims",
+        "Published": "Thu, 13 Apr 2023 11:44:24 -0400",
+        "Description": "Europol and Eurojust announced today the arrest of five individuals believed to be part of\u00a0a massive online investment fraud ring with at least 33,000 victims who lost an estimated \u20ac89 million (roughly $98 million). [...]",
+        "Link": "https://www.bleepingcomputer.com/news/security/police-disrupts-98m-online-fraud-ring-with-33-000-victims/"
+    },
+    {
+        "Title": "Russian hackers linked to widespread attacks targeting NATO and EU",
+        "Published": "Thu, 13 Apr 2023 10:27:15 -0400",
+        "Description": "Poland's Military Counterintelligence Service and its Computer Emergency Response Team have linked APT29 state-sponsored hackers, part of the Russian government's Foreign Intelligence Service (SVR), to widespread attacks targeting NATO and European Union countries. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/security/russian-hackers-linked-to-widespread-attacks-targeting-nato-and-eu/"
+    },
+    {
+        "Title": "WhatsApp boosts defense against account takeover via malware",
+        "Published": "Thu, 13 Apr 2023 09:00:00 -0400",
+        "Description": "WhatsApp announced today the introduction of several new security features, one of them dubbed \"Device Verification\" and designed to provide better protection against account takeover (ATO) attacks. [...]",
+        "Link": "https://www.bleepingcomputer.com/news/security/whatsapp-boosts-defense-against-account-takeover-via-malware/"
+    }
+]
